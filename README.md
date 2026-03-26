@@ -1,4 +1,4 @@
-# Projectile Simulator (C) 🎯
+# Projectile Simulator (C) 
 
 A console-based physics simulator that calculates the landing distance of a projectile using user inputs like mass, force, distance of force application, and angle. Includes a simple ASCII animation and typing effect for better visualization.
 
